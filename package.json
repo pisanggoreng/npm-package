@@ -1,0 +1,23 @@
+{
+    "name": "hash-generator-pisanggoreng",
+    "version": "1.0.0",
+    "description": "Npm for help you generate some hash password without pain",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pisanggoreng/npm-package.git"
+    },
+    "keywords": [
+    "hash",
+    "generator"
+  ],
+    "author": "pisanggoreng",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/pisanggoreng/npm-package/issues"
+    },
+    "homepage": "https://github.com/pisanggoreng/npm-package#readme"
+}
